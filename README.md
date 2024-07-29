@@ -5,4 +5,4 @@ This repository contains a simple login form implemented using HTML and CSS. It 
 
 
 Registration Form
-![Uploading Registration form.png…]()
+
